@@ -1,0 +1,69 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+
+# Exclude specific files
+../../../Ansu/
+../../../Bijin-Das/
+../../../Course/
+../../../Da Vinci Resolve.lnk
+../../../Developer Brave.lnk
+../../../Financial Brave.lnk
+../../../GitHub Desktop.lnk
+"../../../Movies/@MS Ponniyan Selvan\302\240(2022) Tamil WEB-DL 480p.mkv"
+../../../Movies/Dejavu (2022) HDRip 720p.mp4
+../../../Movies/Diary (2022) HDRip 720p.mp4
+../../../Movies/MM Brahmastra Part One (2022) Malayalam 720p WEBDL HEVC.mkv
+../../../Movies/MM Sita Ramam (2022) Malayalam HDRip - 720p - DD+5.1 .mkv
+../../../Movies/Nna_Than_Case_Kodu_2022_HQ_720p_DSNP_HS_WEB_DL_DD+5_1_H_264_BiGiL.mkv
+../../../Movies/Ottu.2022.720p.AMZN.WEB-DL.DDP5.1.H.265-PMI.mp4
+../../../Movies/SolamanteTheneechakal.mp4
+../../../Movies/The Last Samurai (2003)/
+../../../Movies/[MM] Oru Thekkan Thallu Case (2022) Malayalam HDRip - 720p .mp4
+../../../Music Brave.lnk
+../../../Opera Browser.lnk
+../../../Photoshop.lnk
+
+# Exclude specific directories
+../../Admin Dashboard/
+../../EVB Display/
+../../UIUX/
+../../east_venice_bank/
+../../../React/
+../../../Reminder Project/
+../../../Social Brave.lnk
+../../../Supreme/
+../../../Telegram.lnk
+../../../This PC.lnk
+../../../UI UX CLASS/
+../../../Viddly.lnk
+../../../Visual Studio Code.lnk
+../../../Works/
+../../../basics/
+../../../deloitte/
+../../../desktop.ini
+../../../others/
+../../../rolex/
+../../../transport/
+../../../week 1.png
